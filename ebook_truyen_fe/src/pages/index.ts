@@ -1,0 +1,12 @@
+
+export { default as Home } from './home'
+export { default as Ebook } from './ebook'
+export { default as Guidance } from './guidance'
+export { default as Admin } from './admin'
+export { default as SignIn } from './signIn'
+export { default as LogIn } from './logIn'
+export { default as ForgotPassword } from './forgotPassword'
+export { default as ResetPassword } from './resetPassword'
+export { default as Page404 } from './page404'
+export { default as WaitingVerification } from './waitingVerification'
+export { default as WaitingResetPw } from './waitingResetPw'
